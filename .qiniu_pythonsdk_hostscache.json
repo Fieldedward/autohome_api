@@ -1,0 +1,19 @@
+{
+  "http:iy2OkFrtm5lUcCIrCxbIkNXLtxnNXB6js9pRQ-y2:frank-lu-out": {
+    "upHosts": [
+      "http://up-as0.qiniu.com",
+      "http://upload-as0.qiniu.com",
+      "-H up-as0.qiniu.com http://23.248.173.7"
+    ],
+    "ioHosts": [
+      "http://iovip-as0.qbox.me"
+    ],
+    "rsHosts": [
+      "http://rs-as0.qiniu.com"
+    ],
+    "rsfHosts": [
+      "http://rsf-as0.qiniu.com"
+    ],
+    "deadline": 1658584811
+  }
+}

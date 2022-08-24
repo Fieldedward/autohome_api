@@ -1,0 +1,8 @@
+.idea
+*.log
+scripts
+__pycache__
+*.pyc
+.DS_Store
+celerybeat-*
+/auto_home_api/libs/qiniu/

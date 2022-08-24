@@ -1,0 +1,21 @@
+101         后端报错
+code=102,detail="用户或密码错误"
+code=103,detail="验证码错误"
+code=104,detail='手机号格式有误'
+code=105,detail='该手机号已经被注册'
+code=106,detail='手机号不存在'
+code=107,detail="短信发送失败"
+code=108,detail='手机号不能为空'
+code=109,detail='请求不合法，此处只注册商家用户'
+code=110,detail='用户已被锁定,请联系管理员'
+code=111,detail='请求不合法，传入的信息有误'
+code=112,detail='此用户已经注销，请勿重复操作'
+code=113,detail='此用户实名认证，请勿重复操作'
+code=114,detail='传入的身份证有误'
+code=115,detail='传入的身份证姓名有误'
+code=116,detail='已经领取过优惠券，不能重复领取'
+code=117,detail='重新领取优惠券成功'
+
+code=801, detail=wait
+code=901,detail='搜索结果为空'
+code=902,detail='请先实名认证'
